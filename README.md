@@ -52,3 +52,8 @@ python -m esports_dip_bot.bot <slug> --live --stake 1
 Every signal and fill (with observed spread) is appended to `esports_dip_bot/logs/<slug>.jsonl` for re-tuning `--x`/`--y`.
 
 LIVE handles real funds. Loads `PRIVATE_KEY` from `.arbVenv` (dotenv) at runtime; never committed. PAPER needs no key.
+
+## Feedback
+
+Suggestions, improvements, or something not working? Please
+[open an issue](https://github.com/needmoneyforhoes/esports-dip-trading-bot/issues/new). Pull requests are welcome too.

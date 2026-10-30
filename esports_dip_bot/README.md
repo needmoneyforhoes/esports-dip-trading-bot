@@ -31,7 +31,7 @@ negative edge positive.
 ## Usage
 
 ```bash
-cd /home/polybot/polymarket-bot
+cd polymarket-bot
 source venv/bin/activate
 
 # PAPER (safe, default) — point at a match by URL or slug:
